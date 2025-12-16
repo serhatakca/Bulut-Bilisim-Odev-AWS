@@ -50,3 +50,8 @@ Tarayıcı üzerinden sunucunun Genel IP adresi ve 5000. portuna (http://3.120.2
 **Sorun:** SSH bağlantısı sırasında "WARNING: UNPROTECTED PRIVATE KEY FILE!" hatası alındı.
 **Sebep:** Windows, indirilen anahtar dosyasına (.pem) varsayılan olarak çok geniş izinler verdiği için AWS güvenlik gereği bağlantıyı reddetti.
 **Çözüm:** Dosya özelliklerinden "Güvenlik" sekmesine gidilerek, dosya üzerindeki yetkiler kısıtlandı ve sadece kullanıcıya "Okuma" izni verildi. Bu sayede güvenli bağlantı sağlandı.
+
+## 7. Proje Sunum Videosu
+Projenin çalışır halini ve detaylı anlatımını içeren sunum videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+[Video Linki İçin Tıklayınız]((https://youtu.be/qS-QLeHZjgo))
