@@ -54,4 +54,5 @@ Tarayıcı üzerinden sunucunun Genel IP adresi ve 5000. portuna (http://3.120.2
 ##  Proje Sunum Videosu
 Projenin çalışır halini ve detaylı anlatımını içeren sunum videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-[Video Linki İçin Tıklayınız]((https://youtu.be/qS-QLeHZjgo))
+[Video Linki :]
+https://youtu.be/qS-QLeHZjgo
